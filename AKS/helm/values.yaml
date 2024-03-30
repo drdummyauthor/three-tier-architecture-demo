@@ -3,7 +3,7 @@
 image:
   repo: sumeet15n
   version: latest
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
 
 # EUM configuration
 # Provide your key and set the endpoint
